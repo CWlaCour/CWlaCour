@@ -36,14 +36,14 @@
 ---
 
 ## 🚀 **Projects**
-- **BattleCarz:** A competitive car battling game built with Blazor WebAssembly and Synsbasen API.
+- **BattleCarz:** Secret 👀
 - **Shipment Automation:** Integration with FedEx, DHL, and UPS for seamless package tracking.
 - **CI/CD Pipeline Optimizations:** Migrated deployment pipelines from Azure DevOps to GitHub Actions.
 
 ---
 
 ## 📈 **GitHub Stats**
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWlaCour&show_icons=true&theme=onedark)  
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWlaCour&show_icons=true&theme=onedark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CWlaCour&layout=compact&theme=onedark)
 
 ---
