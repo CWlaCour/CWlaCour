@@ -43,7 +43,6 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CWlaCour&show_icons=true&theme=onedark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CWlaCour&layout=compact&theme=onedark)
 
 ---
