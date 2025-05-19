@@ -42,11 +42,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CWlaCour&layout=compact&theme=onedark)
-
----
-
 ## 🌐 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20la%20Cour-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christian-la-cour-882293bb/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=CWlaCour.CWlaCour)](https://github.com/CWlaCour)
